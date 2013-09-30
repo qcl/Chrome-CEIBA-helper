@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+    "name": "CEIBA @NTU",
+	"description": "Collaborative Enhanced Instruction By Asynchronous learning",
+	"version": "4",
+	"app": {
+		"urls": [
+			"*://ceiba.ntu.edu.tw/"
+		],
+		"launch": {
+			"web_url": "https://ceiba.ntu.edu.tw/"
+		}
+	},
+	"icons": {
+		"128": "ceiba128.png"
+	}
+}
